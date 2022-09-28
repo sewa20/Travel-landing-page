@@ -1,0 +1,164 @@
+*{
+    font-family: 'DM Sans', sans-serif;
+}
+
+@media(min-width:500px) {
+
+  body{
+    background-color: #ffffff;
+    -webkit-font-smoothing: antialiased !important;
+
+  }
+
+  hr{
+     border:2px solid white;
+
+  }
+
+  button{
+    border:1px solid white;
+  }
+
+  h2{
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+  .navbar-brand{
+
+    font-weight: bold;
+  }
+
+
+
+
+
+  .title-image{
+    width:100%;
+
+  }
+
+  .image-container{
+    position:relative;
+    text-align: center;
+    color:white;
+  }
+
+  .heading{
+    font-size: 50px;
+
+  }
+
+
+  .center-text{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%, -50%);
+    font-size: 20px;
+    font-weight: bolder;
+  }
+
+  .fa-solid{
+    margin-left:10px;
+  }
+
+
+  /***** features section ****/
+
+  .feature-box{
+    padding:4.5%;
+  }
+
+
+  .icon{
+
+    color:#FF9F29;
+  }
+
+
+
+   /*** flight section ***/
+
+   .life-time{
+     text-align: center;
+     font-size: 40px;
+     font-weight: bold;
+     padding: 20px;
+     margin-bottom: 20px;
+   }
+
+
+
+
+  .fa-cl{
+    margin-right: 5px;
+  }
+
+
+
+  /*** Container-last***/
+  .Social{
+    height:50px;
+    width:1205px;
+    background-color:#5800FF;
+    color:white;
+    padding-left: 80px;
+    margin-top:100px;
+  }
+
+
+
+
+
+
+  .twit{
+    margin-left:100px;
+    margin-right:50px;
+  }
+
+  .face{
+    margin-right:50px;
+    margin-left:100px;
+  }
+
+  .inst{
+    margin-left:100px;
+    margin-right:50px;
+  }
+
+  .link{
+    margin-left:100px;
+    margin-right:100px;
+  }
+
+  .last{
+    color:white;
+  }
+
+  .header{
+    text-decoration: underline;
+    text-decoration-color: blue;
+
+  }
+
+
+  .icon-2{
+    margin-right: 10px;
+  }
+
+}
